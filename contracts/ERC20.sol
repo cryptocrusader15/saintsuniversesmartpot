@@ -1,6 +1,6 @@
 pragma solidity ^0.8.0;
 
-import "../contracts/IERC20.SOL";
+import "../contracts/IERC20.sol";
 import "../contracts/IERC20Metadata.sol";
 import "../contracts/context.sol";
 
